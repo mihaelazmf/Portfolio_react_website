@@ -14,7 +14,7 @@ function Header() {
       <div className="flex justify-between items-center py-2 md:py-10">
         <NavLink to="/">
           <img
-            className="w-14"
+            className="w-20"
             src={logos.logogradient}
             alt="logo"
             style={{ borderRadius: "40%" }}

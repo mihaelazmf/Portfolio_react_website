@@ -34,7 +34,7 @@ export const logos = {
 // Enter your Personal Details here
 export const personalDetails = {
   name: "Mihaela Andreea Zamfir",
-  tagline: "I build things for web",
+  tagline: "I create digital wonders with lines of code",
   img: profile,
   about: `Experienced Banker Embarking on a Software Engineering Journey | Italian Language Proficiency & Frontend Development Skills | Eager for Exciting Career Pathways`,
 };
